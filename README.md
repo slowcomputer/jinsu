@@ -1,5 +1,4 @@
 # 2018920046 컴퓨터과학부 이진수
-![default](https://user-images.githubusercontent.com/43572420/46085694-8e0fc280-c1e1-11e8-886f-a48f6f9eb19a.jpg)
 1. 이진수
   - 취미 
     - 컴퓨터게임
